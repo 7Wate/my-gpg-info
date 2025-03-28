@@ -1,0 +1,77 @@
+## [zhouzhongping@7wate.com](mailto:zhouzhongping@7wate.com)
+
+以下是我的GPG公钥。您可以使用它来加密信息或验证我发出的签名。
+Below is my GPG public key. You can use it to encrypt messages or verify signatures from me.
+Voici ma clé publique GPG. Vous pouvez l'utiliser pour chiffrer des messages ou vérifier les signatures provenant de moi.
+Вот мой GPG-ключ. Вы можете использовать его для шифрования сообщений или проверки моих подписей.
+A continuación se muestra mi clave pública GPG. Puede usarla para cifrar mensajes o verificar firmas de mi parte.
+فيما يلي مفتاح GPG العام الخاص بي. يمكنك استخدامه لتشفير الرسائل أو التحقق من التوقيعات مني.
+
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+6x4CrA==
+=P1ib
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
+可根据如下信息校验公钥完整性。
+
+You can verify the integrity of the public key using the following information.
+Vous pouvez vérifier l'intégrité de la clé publique en utilisant les informations suivantes.
+Вы можете проверить целостность публичного ключа, используя следующую информацию.
+Puede verificar la integridad de la clave pública utilizando la siguiente información.
+يمكنك التحقق من سلامة المفتاح العام باستخدام المعلومات التالية.
+
+```
+sha256sum:faf6a3995dbe777b50436b92f4d094b14ba6c83def85f6df3dbdbb76f29b1a99
+sha512sum:44c93f499006d4e576ee1a36f4a18f39021f1067c94e0bd4275ca5c500f59447328c2c51222ca23552d89b0bcb521ea431e74289ccefee669bbb8bd92e0f9d40
+```
+
